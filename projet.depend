@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1297420954 source:/auto/se1/2012/geneaux/SIMNUM/Projet/11.02/projet/main.cpp
+	<iostream>
+	"boite.h"
+	"particule.h"
+
+1297421046 /auto/se1/2012/geneaux/SIMNUM/Projet/11.02/projet/boite.h
+	<vector>
+	"particule.h"
+	"boite.cpp"
+
+1297419966 /auto/se1/2012/geneaux/SIMNUM/Projet/11.02/projet/particule.h
+	<vector>
+	<list>
+	"particule.cpp"
+
+1297418887 /auto/se1/2012/geneaux/SIMNUM/Projet/11.02/projet/particule.cpp
+	"particule.h"
+
+1297421056 /auto/se1/2012/geneaux/SIMNUM/Projet/11.02/projet/boite.cpp
+	"boite.h"
+	<iostream>
+
